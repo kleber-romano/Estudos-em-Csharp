@@ -1,0 +1,16 @@
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/bin/Debug/net5.0/vetores07
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/bin/Debug/net5.0/vetores07.dll
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/bin/Debug/net5.0/vetores07.pdb
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/obj/Debug/net5.0/vetores07.csproj.AssemblyReference.cache
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/obj/Debug/net5.0/vetores07.GeneratedMSBuildEditorConfig.editorconfig
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/obj/Debug/net5.0/vetores07.AssemblyInfoInputs.cache
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/obj/Debug/net5.0/vetores07.AssemblyInfo.cs
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/obj/Debug/net5.0/vetores07.csproj.CoreCompileInputs.cache
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/obj/Debug/net5.0/vetores07.dll
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/obj/Debug/net5.0/ref/vetores07.dll
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/obj/Debug/net5.0/vetores07.pdb
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/bin/Debug/net5.0/vetores07.deps.json
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/bin/Debug/net5.0/vetores07.runtimeconfig.json
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/bin/Debug/net5.0/vetores07.runtimeconfig.dev.json
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/bin/Debug/net5.0/ref/vetores07.dll
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/vetores07/obj/Debug/net5.0/vetores07.genruntimeconfig.cache

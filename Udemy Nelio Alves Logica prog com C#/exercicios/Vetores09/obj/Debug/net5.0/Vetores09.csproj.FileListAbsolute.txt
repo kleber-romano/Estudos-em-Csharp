@@ -1,0 +1,16 @@
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/bin/Debug/net5.0/Vetores09
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/bin/Debug/net5.0/Vetores09.deps.json
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/bin/Debug/net5.0/Vetores09.runtimeconfig.json
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/bin/Debug/net5.0/Vetores09.runtimeconfig.dev.json
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/bin/Debug/net5.0/Vetores09.dll
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/bin/Debug/net5.0/ref/Vetores09.dll
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/bin/Debug/net5.0/Vetores09.pdb
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/obj/Debug/net5.0/Vetores09.csproj.AssemblyReference.cache
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/obj/Debug/net5.0/Vetores09.GeneratedMSBuildEditorConfig.editorconfig
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/obj/Debug/net5.0/Vetores09.AssemblyInfoInputs.cache
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/obj/Debug/net5.0/Vetores09.AssemblyInfo.cs
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/obj/Debug/net5.0/Vetores09.csproj.CoreCompileInputs.cache
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/obj/Debug/net5.0/Vetores09.dll
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/obj/Debug/net5.0/ref/Vetores09.dll
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/obj/Debug/net5.0/Vetores09.pdb
+/home/kleber/Pessoal/Insync/kleber.romano@live.com/OneDrive/Estudos em Csharp/Udemy Nelio Alves Logica prog com C#/exercicios/Vetores09/obj/Debug/net5.0/Vetores09.genruntimeconfig.cache

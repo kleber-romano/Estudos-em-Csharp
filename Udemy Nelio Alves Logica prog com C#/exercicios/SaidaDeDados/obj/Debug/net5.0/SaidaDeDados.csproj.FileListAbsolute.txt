@@ -1,0 +1,16 @@
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.exe
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.deps.json
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.runtimeconfig.json
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.runtimeconfig.dev.json
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.dll
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\bin\Debug\net5.0\ref\SaidaDeDados.dll
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\bin\Debug\net5.0\SaidaDeDados.pdb
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.csproj.AssemblyReference.cache
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.AssemblyInfoInputs.cache
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.AssemblyInfo.cs
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.dll
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\obj\Debug\net5.0\ref\SaidaDeDados.dll
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.pdb
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\SaidaDeDados\obj\Debug\net5.0\SaidaDeDados.genruntimeconfig.cache

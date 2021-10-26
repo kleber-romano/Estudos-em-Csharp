@@ -1,0 +1,15 @@
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\bin\Debug\net5.0\ProcessamentoDeDadosECasting.exe
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\bin\Debug\net5.0\ProcessamentoDeDadosECasting.deps.json
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\bin\Debug\net5.0\ProcessamentoDeDadosECasting.runtimeconfig.json
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\bin\Debug\net5.0\ProcessamentoDeDadosECasting.runtimeconfig.dev.json
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\bin\Debug\net5.0\ProcessamentoDeDadosECasting.dll
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\bin\Debug\net5.0\ref\ProcessamentoDeDadosECasting.dll
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\bin\Debug\net5.0\ProcessamentoDeDadosECasting.pdb
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\obj\Debug\net5.0\ProcessamentoDeDadosECasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\obj\Debug\net5.0\ProcessamentoDeDadosECasting.AssemblyInfoInputs.cache
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\obj\Debug\net5.0\ProcessamentoDeDadosECasting.AssemblyInfo.cs
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\obj\Debug\net5.0\ProcessamentoDeDadosECasting.csproj.CoreCompileInputs.cache
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\obj\Debug\net5.0\ProcessamentoDeDadosECasting.dll
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\obj\Debug\net5.0\ref\ProcessamentoDeDadosECasting.dll
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\obj\Debug\net5.0\ProcessamentoDeDadosECasting.pdb
+C:\Users\klebe\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\ProcessamentoDeDadosECasting\obj\Debug\net5.0\ProcessamentoDeDadosECasting.genruntimeconfig.cache

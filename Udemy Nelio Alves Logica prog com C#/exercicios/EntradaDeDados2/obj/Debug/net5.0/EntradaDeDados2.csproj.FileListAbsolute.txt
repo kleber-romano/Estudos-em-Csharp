@@ -1,0 +1,16 @@
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\bin\Debug\net5.0\EntradaDeDados2.exe
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\bin\Debug\net5.0\EntradaDeDados2.deps.json
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\bin\Debug\net5.0\EntradaDeDados2.runtimeconfig.json
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\bin\Debug\net5.0\EntradaDeDados2.runtimeconfig.dev.json
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\bin\Debug\net5.0\EntradaDeDados2.dll
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\bin\Debug\net5.0\ref\EntradaDeDados2.dll
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\bin\Debug\net5.0\EntradaDeDados2.pdb
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\obj\Debug\net5.0\EntradaDeDados2.csproj.AssemblyReference.cache
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\obj\Debug\net5.0\EntradaDeDados2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\obj\Debug\net5.0\EntradaDeDados2.AssemblyInfoInputs.cache
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\obj\Debug\net5.0\EntradaDeDados2.AssemblyInfo.cs
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\obj\Debug\net5.0\EntradaDeDados2.csproj.CoreCompileInputs.cache
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\obj\Debug\net5.0\EntradaDeDados2.dll
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\obj\Debug\net5.0\ref\EntradaDeDados2.dll
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\obj\Debug\net5.0\EntradaDeDados2.pdb
+D:\OneDrive\Estudos em Csharp\Udemy Nelio Alves Logica prog com C#\exercicios\EntradaDeDados2\obj\Debug\net5.0\EntradaDeDados2.genruntimeconfig.cache
